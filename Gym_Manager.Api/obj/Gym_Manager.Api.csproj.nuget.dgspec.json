@@ -1,0 +1,391 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Api\\Gym_Manager.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Api\\Gym_Manager.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Api\\Gym_Manager.Api.csproj",
+        "projectName": "Gym_Manager.Api",
+        "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Api\\Gym_Manager.Api.csproj",
+        "packagesPath": "C:\\Users\\Aleksa\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj"
+              },
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj"
+              },
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj"
+              },
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\Gym_Manager.Implementation.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\Gym_Manager.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj",
+        "projectName": "Gym_Manager.Application",
+        "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj",
+        "packagesPath": "C:\\Users\\Aleksa\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj",
+        "projectName": "Gym_Manager.DataAccess",
+        "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Aleksa\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj",
+        "projectName": "Gym_Manager.Domain",
+        "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj",
+        "packagesPath": "C:\\Users\\Aleksa\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\Gym_Manager.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\Gym_Manager.Implementation.csproj",
+        "projectName": "Gym_Manager.Implementation",
+        "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\Gym_Manager.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Aleksa\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aleksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Application\\Gym_Manager.Application.csproj"
+              },
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.DataAccess\\Gym_Manager.DataAccess.csproj"
+              },
+              "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj": {
+                "projectPath": "D:\\PROJEKTI\\VISUAL STUDIO\\ASP\\Projekat_V4\\Gym_Manager\\Gym_Manager.Domain\\Gym_Manager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[33.0.2, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

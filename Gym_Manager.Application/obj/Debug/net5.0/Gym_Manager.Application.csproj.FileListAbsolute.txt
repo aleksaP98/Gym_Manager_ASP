@@ -1,0 +1,15 @@
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\Gym_Manager.Application.deps.json
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\Gym_Manager.Application.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\ref\Gym_Manager.Application.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\Gym_Manager.Application.pdb
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\Gym_Manager.Domain.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\bin\Debug\net5.0\Gym_Manager.Domain.pdb
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.csproj.AssemblyReference.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.AssemblyInfoInputs.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.AssemblyInfo.cs
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.csproj.CopyComplete
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\ref\Gym_Manager.Application.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Application\obj\Debug\net5.0\Gym_Manager.Application.pdb

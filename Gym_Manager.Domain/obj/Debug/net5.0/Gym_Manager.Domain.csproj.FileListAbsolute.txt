@@ -1,0 +1,12 @@
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\bin\Debug\net5.0\Gym_Manager.Domain.deps.json
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\bin\Debug\net5.0\Gym_Manager.Domain.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\bin\Debug\net5.0\ref\Gym_Manager.Domain.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\bin\Debug\net5.0\Gym_Manager.Domain.pdb
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.csproj.AssemblyReference.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.AssemblyInfoInputs.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.AssemblyInfo.cs
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\ref\Gym_Manager.Domain.dll
+D:\PROJEKTI\VISUAL STUDIO\ASP\Projekat_V4\Gym_Manager\Gym_Manager.Domain\obj\Debug\net5.0\Gym_Manager.Domain.pdb
